@@ -1,7 +1,7 @@
 url: "https://rosewills.github.io"			# Hostname & protocol of site (e.g. http://example.com)
-baseurl: "/infinite-loops"							# Subpath of site (e.g. /blog)
-title: "Infinite Loops"				# Name of site (e.g. ACME Corp.)
-description: "Science with yarn, and yarns about science."
+baseurl: "/a-study-in-gravity"							# Subpath of site (e.g. /blog)
+title: "A Study in Gravity"				# Name of site (e.g. ACME Corp.)
+description: "On carrying loss as a student."
 email: rmvwills@gmail.com
 name: Rose Wills
 

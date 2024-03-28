@@ -1,4 +1,4 @@
-# Infinite Loops .gitignore
+# ASIG .gitignore
 
 *.gem
 .bundle
@@ -10,6 +10,7 @@ Gemfile.lock
 # RW's files
 .obsidian/
 ofiles/
+_posts/drafts/
 gitlist
 
 # Vite

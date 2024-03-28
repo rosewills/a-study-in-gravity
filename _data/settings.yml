@@ -1,6 +1,6 @@
 menu:
 - {name: "home", url: "/"}
-- {name: "crafts", url: "/crafts"}
+- {name: "blog", url: "/blog"}
 - {name: "articles", url: "/articles"}
 - {name: "about", url: "/about"}
 # - {name: "archive", url: "/archive"}
