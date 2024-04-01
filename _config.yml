@@ -41,3 +41,4 @@ exclude:							# Ignore these directories when generating the site
   - "/template/"
   - ".obsidian/"
   - "ofiles/"
+  - "/.git/"
